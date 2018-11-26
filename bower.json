@@ -1,0 +1,33 @@
+{
+  "name": "socketio-jwt",
+  "homepage": "https://github.com/markheramis/socketio-jwt",
+  "version": "4.5.0",
+  "_release": "4.5.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v4.5.0",
+    "commit": "8fd152ee51922ac87db2a332c88c8d3a6660a840"
+  },
+  "_source": "https://github.com/markheramis/socketio-jwt.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/markheramis/socketio-jwt.git",
+  "authors": [
+    "José F. Romaniello <jfromaniello@gmail.com>"
+  ],
+  "description": "",
+  "main": "lib/index.js",
+  "keywords": [
+    "socket",
+    "socket.io",
+    "jwt"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
